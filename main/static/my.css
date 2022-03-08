@@ -1,0 +1,15 @@
+body{
+    background: cadetblue;
+}
+
+h1{
+    color: #2b0427;
+    text-align: center;
+}
+
+.image,img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+
+}
